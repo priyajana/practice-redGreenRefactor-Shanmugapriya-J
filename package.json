@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-shanmugapriya-j",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Vowels.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyajana/practice-redGreenRefactor-Shanmugapriya-J.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyajana/practice-redGreenRefactor-Shanmugapriya-J/issues"
+  },
+  "homepage": "https://github.com/priyajana/practice-redGreenRefactor-Shanmugapriya-J#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
